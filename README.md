@@ -1,5 +1,6 @@
 README 
 
+Projeto Ciencia de Dados.
  
 
 O projeto consiste na análise de dados da potabilidade da água, onde analisando suas especificidades através da análise exploratória e aplicando 2 modelos para tentar prever se a água é potável ou não. 
